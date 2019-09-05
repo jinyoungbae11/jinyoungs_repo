@@ -1,0 +1,6 @@
+A mini game added on to a build your own world project in CS61B
+
+Game Description: a game where you control you avatar to find the door located somewhere randomly in the map.
+However, each move leaves behind a trail and you only have a certain view circle of light that shrinks every time
+you reach the next stage. You also get torches to light up the map, but be careful! You might accidentally block off your own
+path!
